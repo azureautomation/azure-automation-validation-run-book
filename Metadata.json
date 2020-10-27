@@ -1,0 +1,20 @@
+{
+    "Author": "Ian Farr [MSFT]",
+    "ContentSize": 4150,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-automation-validation-run-book/master/validation_runbook.ps1",
+    "DownloadCount": 700,
+    "Id": "Azure-Automation-b4dfe4a6",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 410,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-2-22T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "A PowerShell script to check if an Azure Automation account can utilise an Azure Credential asset (Automation Credential) and an Azure Subscription ID asset (Automation Variable).",
+    "Title": "Azure Automation Validation Run Book",
+    "UpdatedDate": "2016-3-18T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-automation-validation-run-book",
+    "UserTags": "Powershell, Runbook, Azure Automation"
+}
